@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Android Studio<br>🌱 I’m currently learning Java, MEAN, Python<br>💬 Ask me about Anything Tech & Music <br>⚡ Fun fact: I am an engineering who is multitalented. I sing & play guitar 🎸
+🔭 I mostly work on Android Studio<br>🌱 I’m currently learning Java, MEAN, Python<br>💬 Ask me about Anything Tech & Music <br>⚡ Fun fact: I am an engineering who is multitalented. I sing & play guitar 🎸
 
 
 ## 🌐 Socials:
